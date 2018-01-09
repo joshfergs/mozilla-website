@@ -15,11 +15,13 @@ h1 {
 
 .quote {
 	color: red;
+	text-align: center;
 }
 
 #mainquote{
 	color: purple;
 	border: 5px solid black;
+	text-align: center;
 }
 
 html {
