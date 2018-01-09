@@ -6,3 +6,11 @@ h1 {
 	color: red;
 	text-align: center;
 }
+
+.quote {
+	color: green;
+}
+
+#mainquote{
+	color: purple;
+}
