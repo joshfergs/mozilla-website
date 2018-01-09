@@ -19,6 +19,7 @@ h1 {
 
 #mainquote{
 	color: purple;
+	border: 5px solid black;
 }
 
 html {
