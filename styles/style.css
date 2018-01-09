@@ -1,10 +1,15 @@
 p, li {
 	color: orange;
+	font-size: 14px;
+	line-height: 2;
+	letter-spacing: 1px;
 }
 
 h1 {
 	color: red;
 	text-align: center;
+	font-size: 60px;
+	text-shadow: 3px 3px 1px black;
 }
 
 .quote {
@@ -17,8 +22,10 @@ h1 {
 
 html {
 	background-color: #00539F;
+	font-size: 11px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Open Sans', sans-serif;
 
-}
+
 
 body {
   width: 600px;
