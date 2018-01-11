@@ -1,15 +1,4 @@
-// Define a Function
- function sayOuch() {
- 	alert('Ouch! Stop poking me!');
- }
- 
- // Use a CSS selector to identify an element
- var foxImage = document.querySelector('img');
- 
- // Assign the function to the onclick event on that element
- foxImage.onclick = sayOuch;
-
- // Add chart
+// Add chart
  var margin = {top: 20, right: 50, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
